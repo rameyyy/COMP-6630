@@ -1,0 +1,6 @@
+For each paper, you have to write 1-page literature review. Focus on
+
+Problem statement
+ML techniques used 
+Metrics
+Models' performance
